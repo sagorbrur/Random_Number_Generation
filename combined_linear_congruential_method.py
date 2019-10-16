@@ -1,5 +1,6 @@
 # Random Number Generation
 # Combined Linear Congruential Method
+# Writer: nahid
 
 def clcg(a1=40014, c1=0, m1=2147482563, a2=40692, c2=0, m2=2147483399):
 	clcg.seed1 = (a1*clcg.seed1 + c1) % m1
