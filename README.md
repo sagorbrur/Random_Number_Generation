@@ -17,5 +17,5 @@ This repo contains Simulation Course, Chapter 7(Random Number Generation) Lab Wo
 
 # Contributor
 * Sagor Sarker
-* Saiful
+* [Saiful](https://github.com/saiful79/simulationa_and_modeling)
 * Nahid
